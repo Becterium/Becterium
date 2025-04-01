@@ -13,10 +13,6 @@
 ### Analytics ⚙️
   
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Becterium" />
-</p>  
-  
-<p align="left">
 <a href="https://github.com/NYARAS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Becterium&count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Becterium&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
